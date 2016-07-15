@@ -1,0 +1,27 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel table.js --watch --out-file index.js",
+    "test": "haha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santanub/react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santanub/react/issues"
+  },
+  "homepage": "https://github.com/santanub/react#readme",
+  "devDependencies": {
+    "babel-cli": "^6.10.1",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.11.1",
+    "babel-preset-stage-2": "^6.11.0"
+  }
+}
